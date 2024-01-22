@@ -1,0 +1,6 @@
+export { default as Navbar } from './Navbar'
+export { default as Hotels } from './Hotels'
+export { default as BookingSingle } from './BookingSingle'
+export { default as NewBookings } from './NewBookings'
+export { default as ViewBookings } from './ViewBookings'
+export { default as UpdateBookings } from './UpdateBookings'
